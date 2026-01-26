@@ -1,0 +1,2 @@
+test_logs.txt filter=lfs diff=lfs merge=lfs -text
+verbose_logs.txt filter=lfs diff=lfs merge=lfs -text
